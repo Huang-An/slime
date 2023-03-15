@@ -1,0 +1,158 @@
+@font-face {
+  font-family: 'iconfont'; /* Project id 2574674 */
+  src: url('../fonts/al-iconfont.woff2?t=1622196761951') format('woff2'),
+    url('../fonts/al-iconfont.woff?t=1622196761951') format('woff'),
+    url('../fonts/al-iconfont.ttf?t=1622196761951') format('truetype');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tuozhuai:before {
+  content: '\e611';
+}
+
+.icon-caidan:before {
+  content: '\e668';
+}
+
+.icon-shenfenzheng:before {
+  content: '\e61b';
+}
+
+.icon-lunbotu1:before {
+  content: '\e67a';
+}
+
+.icon-miaoshu:before {
+  content: '\e643';
+}
+
+.icon-step:before {
+  content: '\e6d0';
+}
+
+.icon-lunbotu:before {
+  content: '\e64a';
+}
+
+.icon-upload:before {
+  content: '\e609';
+}
+
+.icon-buzhou:before {
+  content: '\e60a';
+}
+
+.icon-wuliu:before {
+  content: '\e9e5';
+}
+
+.icon-card:before {
+  content: '\e650';
+}
+
+.icon-shouji:before {
+  content: '\e604';
+}
+
+.icon-info:before {
+  content: '\e602';
+}
+
+.icon-submit:before {
+  content: '\e63c';
+}
+
+.icon-check-box:before {
+  content: '\ecaa';
+}
+
+.icon-car:before {
+  content: '\e63a';
+}
+
+.icon-select:before {
+  content: '\e661';
+}
+
+.icon-top:before {
+  content: '\e608';
+}
+
+.icon-dianpu:before {
+  content: '\e7d6';
+}
+
+.icon-feiyong:before {
+  content: '\e669';
+}
+
+.icon-orderform:before {
+  content: '\e655';
+}
+
+.icon-credentials_icon:before {
+  content: '\e674';
+}
+
+.icon-zhifu:before {
+  content: '\e8f9';
+}
+
+.icon-lunbo:before {
+  content: '\e623';
+}
+
+.icon-zitiqianshou:before {
+  content: '\e600';
+}
+
+.icon-querylist:before {
+  content: '\e6dd';
+}
+
+.icon-user:before {
+  content: '\e6e1';
+}
+
+.icon-scan:before {
+  content: '\e64e';
+}
+
+.icon-input:before {
+  content: '\e619';
+}
+
+.icon-cz-jhsq:before {
+  content: '\e810';
+}
+
+.icon-ditu:before {
+  content: '\e651';
+}
+
+.icon-time:before {
+  content: '\e61e';
+}
+
+.icon-pingtaixuzhi:before {
+  content: '\e61f';
+}
+
+.icon-anniu:before {
+  content: '\e638';
+}
+
+.icon-guige:before {
+  content: '\e649';
+}
+
+.icon-biaoti:before {
+  content: '\e601';
+}
